@@ -1,0 +1,14 @@
+{
+  "name": "koapp-directive-quantityButton",
+  "authors": "King of App",
+  "description": "Quantity button directive for koapp",
+  "keywords": [
+    "kingofapp",
+    "directive"
+  ],
+  "license": "MIT",
+  "homepage": "http://kingofapp.com",
+  "private": true,
+  "dependencies": {
+  }
+}
